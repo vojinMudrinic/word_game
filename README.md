@@ -14,6 +14,6 @@ Word Game is a web application created with React and Laravel. The purpose of th
 
 ## Custom Commands (API Folder)
 
-- `$ php artisan serve`: Starts the development server for the API.
-- `$ php artisan test`: Runs tests for the API.
-- `$ php artisan wordSubmit {word}`: Used for the console app function to submit a word for scoring. Replace `{word}` with the actual word you want to submit.
+- `php artisan serve`: Starts the development server for the API.
+- `php artisan test`: Runs tests for the API.
+- `php artisan wordSubmit {word}`: Used for the console app function to submit a word for scoring. Replace `{word}` with the actual word you want to submit.
