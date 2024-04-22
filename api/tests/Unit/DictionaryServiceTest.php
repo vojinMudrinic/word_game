@@ -1,9 +1,10 @@
 <?php
 
-namespace Tests\Unit\Services;
+namespace Tests\Unit;
 
 use App\Services\DictionaryService;
 use Tests\TestCase;
+
 
 class DictionaryServiceTest extends TestCase
 {

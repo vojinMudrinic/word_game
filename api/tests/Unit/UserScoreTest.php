@@ -1,9 +1,10 @@
 <?php
 
-namespace Tests\Unit\Class;
+namespace Tests\Unit;
 
 use App\Class\User;
 use Tests\TestCase;
+
 
 class UserScoreTest extends TestCase
 {

@@ -1,12 +1,9 @@
 <?php
-namespace Tests\Unit\Class;
+namespace Tests\Feature;
 
 use App\Class\Game;
 use App\Class\User;
-use App\Services\DictionaryService;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Http;
-use Illuminate\Validation\ValidationException;
 use Tests\TestCase;
 
 class GameTest extends TestCase
