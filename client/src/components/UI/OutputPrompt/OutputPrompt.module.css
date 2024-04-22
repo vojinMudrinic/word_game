@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 6px;
+  user-select: none;
+  color: black;
+}
+
+.error {
+  color: red;
+}
